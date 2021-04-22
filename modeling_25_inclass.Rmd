@@ -112,5 +112,5 @@ MICfit <- predict.lm(MIC,test)
 
 7.  Which model makes better predictions in the testing set?
 
-
+TESTING TESTING
 
